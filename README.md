@@ -20,3 +20,6 @@ Teaching Programming Portfolio Videos for EDS124BR
 
 **Conditional Loops**
 - https://youtu.be/tZLaG2-CEEU
+
+**If and If Else**
+- https://youtu.be/zIQVuGPwQH0
