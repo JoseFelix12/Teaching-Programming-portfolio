@@ -23,3 +23,6 @@ Teaching Programming Portfolio Videos for EDS124BR
 
 **If and If Else**
 - https://youtu.be/zIQVuGPwQH0
+
+**Nested If Else**
+- https://youtu.be/ioK5z1NoiqA
