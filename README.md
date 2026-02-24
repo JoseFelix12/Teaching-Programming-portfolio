@@ -26,3 +26,6 @@ Teaching Programming Portfolio Videos for EDS124BR
 
 **Nested If Else**
 - https://youtu.be/ioK5z1NoiqA
+
+**Compound Conditionals**
+- https://youtu.be/R7qYcOuhJyc
