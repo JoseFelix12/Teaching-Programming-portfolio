@@ -29,3 +29,6 @@ Teaching Programming Portfolio Videos for EDS124BR
 
 **Compound Conditionals**
 - https://youtu.be/R7qYcOuhJyc
+
+**Block Creation**
+- https://youtu.be/_h2DsPaF6ok 
