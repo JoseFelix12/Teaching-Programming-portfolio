@@ -31,4 +31,7 @@ Teaching Programming Portfolio Videos for EDS124BR
 - https://youtu.be/R7qYcOuhJyc
 
 **Block Creation**
-- https://youtu.be/_h2DsPaF6ok 
+- https://youtu.be/_h2DsPaF6ok
+
+**Lists**
+- https://youtu.be/ECuzwiGaid8
